@@ -15,10 +15,17 @@ This application was created as a pass time to revisit the coding fundamentals t
 - Display the current date and time, updated every second
 
 ## Installation
+Just click on the link below
+
+https://gdf-todo-list.vercel.app/
+
+OR
 
 1. Clone this repository.
 2. Open `index.html` in your web browser.
 3. Run `npm install` to install required dependencies
+
+
 ## How to Use
 
 1. Enter a task in the input field.
