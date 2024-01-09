@@ -17,7 +17,7 @@ This application was created as a pass time to revisit the coding fundamentals t
 ## Installation
 Just click on the link below
 
-https://gdf-todo-list.vercel.app/
+<a href="https://gdf-todo-list.vercel.app/" target="_blank">Vercel Deployment</a>
 
 OR
 
