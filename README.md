@@ -3,6 +3,8 @@
 This is a simple, clean looking todo list application built with Vanilla JavaScript.
 This application was created as a pass time to revisit the coding fundamentals that we so often forget
 
+![Example GIF](./media/example.gif)
+
 ## Features
 
 - Add tasks to the list
